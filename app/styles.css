@@ -1,0 +1,33 @@
+
+#village {
+  background-color: transparent;
+  background-image: "EnergyIsland/village.png";
+  background-size: 100% 100%;
+  background-position: top left;
+}
+#windfarm {
+  background-color: transparent;
+  background-image: "EnergyIsland/windfarm.png";
+  background-size: 100% 100%;
+  background-position: top left;
+}
+#coalplant {
+  background-color: transparent;
+  background-image: "EnergyIsland/coalplant.png";
+  background-size: 100% 100%;
+  background-position: top left;
+}
+#parent {
+  background-color: transparent;
+}
+#donut {
+  background-color: transparent;
+  opacity: 0.3;
+}
+#power {
+  background-color: transparent;
+  opacity: 0.5;
+}
+#powerConnector {
+  background-color: transparent;
+}
